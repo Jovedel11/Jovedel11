@@ -124,16 +124,6 @@ My coding background isn't just history; it's proof that I learn fast, build thi
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-
-![Jovedel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jovedel11&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jovedel11&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
 ## Education
 
 **Bachelor of Science in Information Technology**
