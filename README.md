@@ -82,7 +82,7 @@ My coding background isn't just history; it's proof that I learn fast, build thi
 | 🏅 Information Technology Fundamentals | IBM     |
 | 🏅 IT Customer Support Basics          | Cisco   |
 | 🏅 Advance JavaScript                  | Scrimba |
-| 🏅 Computer System Servicing NC II     | TESDA   |
+| 🏅 Computer System Servicing NC II     | Work Immersion   |
 
 ---
 
