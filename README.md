@@ -43,7 +43,7 @@ My coding background isn't just history; it's proof that I learn fast, build thi
 
 ### Cybersecurity & Tools
 
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kalilinux&logoColor=white)
+![Ubuntu Linux](https://img.shields.io/badge/Ubuntu_Linux-E95420?style=flat&logo=ubuntu&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
 
 - Cisco Packet Tracer (Network Simulation)
