@@ -74,9 +74,9 @@ My coding background isn't just history; it's proof that I learn fast, build thi
 
 ---
 
-## Certifications
+## Certificate of Completions
 
-| Certificate                            | Issuer  |
+| Course                            | Issuer  |
 | -------------------------------------- | ------- |
 | 🏅 Networking Basics                   | Cisco   |
 | 🏅 Information Technology Fundamentals | IBM     |
