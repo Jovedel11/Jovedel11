@@ -131,11 +131,3 @@ Bulacan State University – Sarmiento Campus _(2022 – Present)_
 
 **Senior High School – TVLTrack (ICT Strand)**
 San Jose Del Monte National Trade School (Sapang Palay) _(2020 – 2022)_
-
----
-
-<div align="center">
-
-- Developer by background. Network Engineer by direction. Security Professional by ambition.\*
-
-</div>
