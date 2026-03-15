@@ -50,6 +50,8 @@ My coding background isn't just history; it's proof that I learn fast, build thi
 - Ubuntu CLI (Basic command-line skills)
 - Oracle Virtual Box
 - Wireshark (Network Analysis)
+- Git/GitHub (Basic–Intermediate)
+- VS Code
 - Actively documenting my learning path → [`Journey-in-Cybersecurity`](https://github.com/Jovedel11/Journey-in-Cybersecurity)
 
 ### IT Support / System Troubleshooting
@@ -57,8 +59,6 @@ My coding background isn't just history; it's proof that I learn fast, build thi
 - Application installation & error fixing
 - System performance optimization
 - Basic hardware diagnostics
-- Git/GitHub (Basic–Intermediate)
-- VS Code
 
 ### Software Development _(Supporting Skill)_
 
