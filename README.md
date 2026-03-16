@@ -78,7 +78,7 @@ My coding background isn't just history; it's proof that I learn fast, build thi
 
 | Courses                            | Issuer  |
 | -------------------------------------- | ------- |
-| 🏅 Networking devices an Basic Configuration | Cisco   |
+| 🏅 Networking devices and Initial Configuration | Cisco   |
 | 🏅 Networking Basics                   | Cisco   |
 | 🏅 IT Customer Support Basics          | Cisco   |
 | 🏅 Advance JavaScript                  | Scrimba |
