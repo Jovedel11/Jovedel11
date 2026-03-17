@@ -79,7 +79,7 @@ My coding background isn't just history; it's proof that I learn fast, build thi
 | Courses                            | Issuer  |
 | -------------------------------------- | ------- |
 | 🏅 Network Technician Career Path                   | Cisco   |
-| 🏅 Networking devices and Initial Configuration | Cisco   |
+| 🏅 Networking Devices and Initial Configuration | Cisco   |
 | 🏅 Networking Basics                   | Cisco   |
 | 🏅 IT Customer Support Basics          | Cisco   |
 | 🏅 Advance JavaScript                  | Scrimba |
