@@ -31,7 +31,6 @@ My coding background isn't just history; it's proof that I learn fast, build thi
 ### Networking & Infrastructure
 
 ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat&logo=cisco&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
 
 - Routing & Switching (Basic–Intermediate)
@@ -43,6 +42,7 @@ My coding background isn't just history; it's proof that I learn fast, build thi
 
 ### Cybersecurity & Tools
 
+![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat&logo=cisco&logoColor=white)
 ![Ubuntu Linux](https://img.shields.io/badge/Ubuntu_Linux-E95420?style=flat&logo=ubuntu&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
 
